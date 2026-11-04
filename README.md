@@ -1,3 +1,5 @@
+[한국어](README.md) | [English](README.en.md)
+
 유튜브 알림함 — AI를 활용한 Chrome 확장 프로그램 개발 기록
 
 ![유튜브 알림함 전체 화면](overview.png)
