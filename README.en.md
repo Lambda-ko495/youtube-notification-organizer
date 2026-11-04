@@ -2,7 +2,7 @@
 
 YouTube Notification Organizer — Building a Chrome Extension with AI
 
-![유튜브 알림함 전체 화면](overview.png)
+![유튜브 알림함 전체 화면](overview_en.png)
 
 A personal Chrome extension project for organizing YouTube notifications in a side panel, managing local read/unread indicators, and keeping a browser-local archive.
 
